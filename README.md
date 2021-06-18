@@ -10,7 +10,7 @@ This is a prety simple application, just shows how many days left untill next wa
 ## Instalation
 1. Create empty folder where you want;
 2. Copy ***resources*** folder from repository to your new folder from step 1;
-3. Move ***PWH.exe*** (download it from release or compile by yourself) file to folder from step 1, create a shortcut or pin to taskbar as you wish and you're ready, but I recommend you to do following steps for more convenient use; 
+3. Move ***PWH.exe*** (download it [here](https://github.com/kondrusev33ch/PWH/releases/tag/pwh) or compile by yourself) file to folder from step 1, create a shortcut or pin to taskbar as you wish and you're ready, but I recommend you to do following steps for more convenient use; 
 4. Press ***Win + R*** (for Windows) to open Run panel, then paste ***shell:startup*** to it and press ***OK***, you will get a File Explorer window (do not close it);
 5. Now make a ***PWH.exe*** shortcut and put it to the File Explorer window you got from step 4, then you can close it;
 
